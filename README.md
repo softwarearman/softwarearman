@@ -1,7 +1,16 @@
-https://media.licdn.com/dms/image/v2/D4E03AQGzIakLculf-A/profile-displayphoto-scale_400_400/B4EZqqS8PzGoAg-/0/1763793714249?e=1792022400&v=beta&t=7dk9IdISqoRdPHH1JkZFUnFHVm1EtkJPgKLS3PxMm34
 <div align="center">
+  <!-- Dynamic Profile Image -->
+  <a href="https://www.linkedin.com/in/arman-molla-832694397/">
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQGzIakLculf-A/profile-displayphoto-scale_400_400/B4EZqqS8PzGoAg-/0/1763793714249?e=1792022400&v=beta&t=7dk9IdISqoRdPHH1JkZFUnFHVm1EtkJPgKLS3PxMm34" 
+    alt="Arman Molla Profile Image" 
+    style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </a>
+
   <h1>Hi, I'm <a href="https://www.linkedin.com/in/arman-molla-832694397/">Arman Molla</a> 👋</h1>
   <h3>Software Engineer | Python, Automation & AI Solutions</h3>
+
+  <!-- Profile View Counter (koto jon view korlo add holo) -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Count" />
 
   <p>
     <a href="https://www.linkedin.com/in/arman-molla-832694397/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
