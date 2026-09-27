@@ -1,7 +1,5 @@
-<img width="610" height="610" alt="image" src="https://github.com/user-attachments/assets/b69d9531-66cc-4345-967e-64fe1ed95eea" />
-
 <div align="center">
-  <h1>Hi, I'm <a href="https://yourportfolio.com">Arman</a> 👋</h1>
+  <h1>Hi, I'm <a href="https://yourportfolio.com">Your Name</a> 👋</h1>
   <h3>Software Engineer | Python, Automation & AI Solutions</h3>
 
   <p>
